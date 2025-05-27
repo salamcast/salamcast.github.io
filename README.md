@@ -1,3 +1,0 @@
-# HOLZ.one
-
-under construction
