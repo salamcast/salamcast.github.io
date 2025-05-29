@@ -1,4 +1,4 @@
 ---
 title: HOLZ.one
 ---
-under construction
+![HOLZ.ONE](./image/logo2.jpeg)
